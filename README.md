@@ -1,5 +1,7 @@
 # Developing a Neural Network Classification Model
+NAME : S.T.DHANAAAKHAASH
 
+REG NO :212224240032
 ## AIM
 To develop a neural network classification model for the given dataset.
 
